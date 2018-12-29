@@ -1,5 +1,5 @@
-# KKPaddingLabel 
-***
+KKPaddingLabel 
+===
 [![](https://img.shields.io/badge/pod-1.0.1-orange.svg?url=www.baidu.com)](https://cocoapods.org/pods/KKPaddingLabel) [![](https://img.shields.io/badge/platform-ios%20%7C%20osx%20%7C%20watchos%20%7C%20tvos-lightgrey.svg)](https://cocoapods.org/pods/KKPaddingLabel) [![](https://img.shields.io/badge/blog-简书-E87040.svg)](https://www.jianshu.com/p/57776de0a507)
 
 
