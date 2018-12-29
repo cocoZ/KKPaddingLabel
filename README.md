@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/pod-1.0.1-orange.svg?url=www.baidu.com)
 # KKPaddingLabel 
 
 #### 可以给Label添加内边距，支持xib可视化修改，支持autolayout/masonry约束
