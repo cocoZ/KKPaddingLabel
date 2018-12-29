@@ -4,11 +4,11 @@ KKPaddingLabel
 
 
 #### 可以给Label添加内边距，支持xib可视化修改，支持autolayout/masonry约束
-#### xib效果 动图
+xib效果 动图
 -------
 ![xib可视化编辑内边距](https://github.com/cocoZ/photos/blob/master/KKPaddingLabel2.mov.gif?raw=true "示例图")
 
-#### 代码效果-灰色背景的Label（见下图）, Masonry约束效果相同 
+代码效果-灰色背景的Label（见下图）, Masonry约束效果相同 
 -------
     KKPaddingLabel *paddingLabel = [[KKPaddingLabel alloc] initWithFrame:CGRectZero];
     paddingLabel.text = @"KKPaddingLabel";
